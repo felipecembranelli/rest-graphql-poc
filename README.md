@@ -5,7 +5,9 @@ The purpose of this proof of concept is to understand the differences in impleme
 ## Requirements
 
 1 - Intall mongodb locally (use docker as recommendation)
+
 2 - Load json files into database using mongodb import
+
 3 - Create .env file in 2 places and set up mongodb connection string in 2 places:
 
 - RESTAPi root folder
