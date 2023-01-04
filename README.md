@@ -36,6 +36,12 @@ Run it on the GraphQLAPI root folder:
 npm start
 ```
 
+### Run tests for every code change
+
+```
+npm test --watch
+```
+
 ## How to run REST API frontend UI
 
 Go to RESTApiUI/car-specs-ui/src/hooks/ folder and configure the correct REST API endpoint:
